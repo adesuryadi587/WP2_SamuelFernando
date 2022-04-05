@@ -23,15 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-<<<<<<< HEAD
-<<<<<<< HEAD
-$config['base_url'] = '';
-=======
 $config['base_url'] = 'http://localhost/pustaka-booking/';
->>>>>>> 6a58f76 (penambahan readme)
-=======
-$config['base_url'] = '';
->>>>>>> bab9b0c3a76cb2828d1aba9fb793282298d9dbc1
 
 /*
 |--------------------------------------------------------------------------

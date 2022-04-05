@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('form_validation');
 
 /*
 | -------------------------------------------------------------------
@@ -89,15 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-<<<<<<< HEAD
-<<<<<<< HEAD
-$autoload['helper'] = array();
-=======
 $autoload['helper'] = array('url');
->>>>>>> 6a58f76 (penambahan readme)
-=======
-$autoload['helper'] = array();
->>>>>>> bab9b0c3a76cb2828d1aba9fb793282298d9dbc1
 
 /*
 | -------------------------------------------------------------------
